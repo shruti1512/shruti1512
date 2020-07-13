@@ -2,7 +2,7 @@
 
 ## Biography 
 <a name = "bio" /> 
-<img align = "right" src="Bio-Image.png" width="245" height="350">  
+<img align = "right" src="https://github.com/shruti1512/shruti1512/blob/master/Bio-Image.png" width="245" height="350">  
 
 **Name** - Shruti Sharma <br/>
 **Discord Name** - TK:Shruti <br/>
