@@ -10,8 +10,4 @@
 **Programming experience** - 6 yrs as iOS Developer in Objective C <br/>
 **Hobbies and Interests** - Reading, Cooking, Playing tennis <br/>
 **Goals**
-- Get proficient in iOS Development 
-- Learn how to drive 
-- Workout more often 
-- Practise mediation more 
-- Travel around the world
+- Get better and better everyday in iOS Development 
