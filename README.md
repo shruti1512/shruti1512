@@ -1,4 +1,4 @@
-## Hi, there, I am Shruti
+## Hi there! I am Shruti.
 
 Mobile Development is my passion! I am a self-motivated mobile software engineer with over six years of experience designing and developing iOS applicatons in Swift and Objective-C.
 
