@@ -2,7 +2,7 @@
 
 Mobile Development is my passion! I am a self-motivated mobile software engineer with over six years of experience designing and developing iOS applicatons in Swift and Objective-C.
 
-My main objective is to materialize idea to a fully functional robust mobile application. I possess rich experience in project development life cycle including requirements gathering, high and low-level architecture designing, coding, reviews, unit testing, integration testing, and agile methodologies.
+My main objective is to materialize an idea to a fully functional robust mobile application. I possess rich experience in project development life cycle including requirements gathering, high and low-level architecture designing, coding, reviews, unit testing, integration testing, and agile methodologies.
 
 ### My Skills
 
